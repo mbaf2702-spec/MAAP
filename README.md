@@ -1,3 +1,6 @@
+integrantes: Acuña Melany, Espinoza Olivo Pamela, Morante Ashley, Parrales Allison
+
+
 # MAAP
 Tienda de Ropa Elegante
 
